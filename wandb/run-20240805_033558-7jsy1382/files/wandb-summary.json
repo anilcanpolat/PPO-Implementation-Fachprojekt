@@ -1,0 +1,1 @@
+{"max_value": 0.299642950296402, "average_value": 0.299642950296402, "_timestamp": 1722821768.2654505, "_runtime": 9.433411359786987, "_step": 21, "video": {"_type": "video-file", "sha256": "0d8dc25a8b7f267b259c9e644018716d235406c4c407e1447d0e780ccb27b1cc", "size": 3745, "path": "media/videos/video_21_0d8dc25a8b7f267b259c.mp4"}, "_wandb": {"runtime": 13}}

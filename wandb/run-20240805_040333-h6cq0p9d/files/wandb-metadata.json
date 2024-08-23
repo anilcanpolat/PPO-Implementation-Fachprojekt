@@ -1,0 +1,67 @@
+{
+    "os": "Windows-11-10.0.22631-SP0",
+    "python": "3.12.3",
+    "heartbeatAt": "2024-08-05T02:03:36.908698",
+    "startedAt": "2024-08-05T02:03:33.828593",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--env_name",
+        "Breakout-v0",
+        "--agent_class",
+        "PPOAgent",
+        "--video_path",
+        "Videos",
+        "--wandb_log",
+        "true",
+        "--episodes",
+        "10",
+        "--live",
+        "--obs_type",
+        "pixels"
+    ],
+    "state": "running",
+    "program": "D:\\Uni\\NichtBestanden\\FachProjekt\\G4\\project\\videos.py",
+    "codePathLocal": "project\\videos.py",
+    "codePath": "project\\videos.py",
+    "git": {
+        "remote": "https://github.com/TU-Dortmund-Fachprojekt-RL-SS24/G4.git",
+        "commit": "8a1473a3eba2a0345a4570c81569c0a48d09b0e9"
+    },
+    "email": "anilcan.polat@gmail.com",
+    "root": "D:/Uni/NichtBestanden/FachProjekt/G4",
+    "host": "Singularity-PC",
+    "username": "anilcan",
+    "executable": "C:\\Users\\anilcan\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2592.0,
+        "min": 0.0,
+        "max": 2592.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 2592.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 929.8730239868164,
+            "used": 810.4078178405762
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.822307586669922
+    }
+}

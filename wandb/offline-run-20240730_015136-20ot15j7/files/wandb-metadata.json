@@ -1,0 +1,53 @@
+{
+    "os": "Windows-11-10.0.22631-SP0",
+    "python": "3.12.3",
+    "heartbeatAt": "2024-07-29T23:51:38.475022",
+    "startedAt": "2024-07-29T23:51:36.875070",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "d:\\Uni\\NichtBestanden\\FachProjekt\\G4\\project\\train.py",
+    "codePathLocal": "project\\train.py",
+    "codePath": "project\\train.py",
+    "git": {
+        "remote": "https://github.com/TU-Dortmund-Fachprojekt-RL-SS24/G4.git",
+        "commit": "90dd14bc697c43232a69af79af6e299b407a2ddb"
+    },
+    "email": "anilcan.polat@gmail.com",
+    "root": "D:/Uni/NichtBestanden/FachProjekt/G4",
+    "host": "Singularity-PC",
+    "username": "anilcan",
+    "executable": "C:\\Users\\anilcan\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2592.0,
+        "min": 0.0,
+        "max": 2592.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 2592.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 929.8730239868164,
+            "used": 810.1782493591309
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.822307586669922
+    }
+}
